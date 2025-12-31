@@ -1,0 +1,186 @@
+DeepSeek-V3 Model - 5 Best Generated Outputs
+======================================================================
+
+Model: DeepSeek-V3 (689M parameters)
+Training: 10,000 steps, Final loss: 0.129313
+======================================================================
+
+Output 1 - Prompt: ROMEO:
+----------------------------------------------------------------------
+ROMEO:
+Good pilgrim, very well, and gentlemen;
+If you that it then?
+
+GLOUCESTER:
+Thy son I am resolved
+Not to tell you.
+
+KING EDWARD IV:
+If you, then, give humble thanks from my brother.'
+
+KING EDWARD IV:
+Ay, Richard, thou to, do your best friend to leave.
+
+GLOUCESTER:
+Clarence,, tenderly!
+What, very soul well, hear them back?
+
+QUEEN MARGARET:
+O monstrous, heavy doth she live,
+To be a little.
+
+ARCHBishop:
+I would you,, cut off the like a nature?
+
+Shepherd:
+Take up the priest,, thy mother'st a quicken Dick,
+Tis very virtuous and Clarence; and Clarence to London;
+The other some: I'll do hence
+
+======================================================================
+
+Output 2 - Prompt: JULIET:
+----------------------------------------------------------------------
+JULIET:
+Who is coming.
+
+PRINCE EDWARD:
+My lord, I do; not stay, to follow thee,
+But that thou dost thou speak, do now,
+Not adieu.
+
+CLARENCE:
+This will last I see
+To whom an end at, O lady--
+
+KING EDWARD IV:
+I am a word with the Henry.
+
+KING EDWARD IV:
+Marry, to me to liege,
+For by my brother.
+
+KING EDWARD IV:
+She's a word with the time to my brother Richard?
+
+CLARENCE:
+To save thee plain, nor any more we make her husband's lands.
+
+KING EDWARD IV:
+My gracious lord, nor now come; my children mightily.
+But, come on mine ear.
+But, mighty lord, when I have done,
+But keep you, my brother,
+
+======================================================================
+
+Output 3 - Prompt: HAMLET:
+----------------------------------------------------------------------
+HAMLET:
+Come, brother of France than he!
+
+PRINCE:
+Like an ill-sheathed in the,
+And, for: I to the to, with speed
+Of thee henceforth, and by swors.
+
+CLIFFORD:
+
+I like it well, in this land them,
+Tis even so the
+For most sweeten servitor to me,
+Tis none of my lord, that your king.
+
+CLARENCE:
+I am like now
+To you the air most sweet,, and be now,
+So meet you of your fortune and leave you,
+The king the thee.
+
+Nay, my lord, good queen again.
+
+CAPULETis a man.
+
+Nay, brother, good lord,
+Upon this?
+
+! nay, Camillo?
+
+First Lord Hastings?
+
+JULIET:
+My lord; thou
+
+======================================================================
+
+Output 4 - Prompt: MACBETH:
+----------------------------------------------------------------------
+MACBETH:
+
+Have you not be gone, sir, are we'll make you.
+
+ROMEO:
+So shalt thou show thee, and be gone to be gone.
+
+BALTHASAR:
+Peace, and go to; for 'tis no prouds:
+Do so, if you'll not be at harm.
+
+CAPULET:
+If I remember well, good night;
+Is't: I stay, if she will be gone to save't.
+
+MERCALUS:
+Well,, and will tell thee, sir.
+
+Nay, God's the man!
+
+ROMEO:
+I do beseech you, sir, sir.
+
+Nay, sir, sir, sir, sir, to my gentleman,
+for you, that she; a man of you,
+And bring thee on theirGod save give,
+fear this it shall point.
+
+ROMEO:
+
+======================================================================
+
+Output 5 - Prompt: KING HENRY:
+----------------------------------------------------------------------
+KING HENRY:
+O, my son, away; which speech,
+For thou art thou shalt be born?
+
+KING EDWARD IV:
+Thy them then, and thine.
+
+QUEEN MARGARET:
+Thou hast nothing but I wouldst presume,
+And see thee no more a man.
+
+ that bred this hand, but this land
+For that thou didst presume, no more than all canst
+As thou art a son of mine.
+
+ are full of that eyes?
+
+CLARET:
+Alas, NASL, that, I am not?
+
+ then, I am so near; there.
+
+QUEEN MARGARET:
+The help! thou not speak.
+
+GLOUCESTER:
+That Clarence?
+
+KING EDWARD IV:
+'Tis better nature a NASLcester, bear or else a winter-t thou.
+
+
+
+======================================================================
+
